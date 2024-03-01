@@ -10,3 +10,6 @@ Inspired by the clever people on reddit https://www.reddit.com/r/synology/commen
 <p align="center">Unsupported nail polish</p>
 <p align="center"><img src="no_bueno.jpg"></p>
 
+<p align="center">Supported nail polish</p>
+<p align="center"><img src="happy.webp"></p>
+

@@ -13,3 +13,6 @@ Inspired by the clever people on reddit https://www.reddit.com/r/synology/commen
 <p align="center">Supported nail polish</p>
 <p align="center"><img src="happy.webp"></p>
 
+<p align="center">The script in action</p>
+<p align="center"><img src="script.png"></p>
+

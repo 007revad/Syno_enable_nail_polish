@@ -1,6 +1,5 @@
-# Syno enable nail polish
+# <img src="green.jpg" width="40"> Syno enable nail polish
 
-<p align="leftr"><img src="green.jpg"></p>
 Add your 3rd-party Nail Polish to Synology's supported nail polish database so you can paint your orange drive LEDs green :o)<br><br>
 
 Inspired by the clever people on reddit https://www.reddit.com/r/synology/comments/1b3vqwv/comment/ksv1qjn/
